@@ -1,0 +1,44 @@
+.logo-class{
+	position: relative;
+	display: block;
+	width: 305px;
+	height: 69px;
+	background: url(images/new-logo.png);
+}
+.fr{
+	float: right;
+}
+.fl{
+	float: left;
+}
+.login-cont{
+	min-width: 290px;
+}
+
+.login-cont input[type=text],.login-cont input[type=password]{
+	min-width: 96%;
+	padding: 6px 3px 6px 3px;
+}
+
+html[xmlns] .clearfix {
+    display: block;
+}
+
+* html .clearfix {
+    height: 1%;
+}
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+.clearfix {
+    display: inline-block;
+}
+
+.clear { clear:both;
+}

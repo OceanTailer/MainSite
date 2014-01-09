@@ -1,0 +1,19 @@
+1. Uplad all the files except for the oceantailer(4).sql
+2.setup new database and import the database oceantailer(4).sql
+4.update the database.php for the new database name and login credentials. folder - application/config/database.php
+3.update the config.php for its base url.folder - config.php
+
+
+----------------------------------------------------------------
+
+1.Upload the new database named as oceantailer(5).sql
+2.download the images from a given ftp access(will give it tomorrow):
+3. download the images inlcuding the folder naming:
+	1. avatars
+	2. product_image
+	3. categories
+4. Login to administrator: user:admin pass: admin and go to Admin menu at the right side.(left side of the Sales).
+5.click the  Fix Images Setting and click FIX IMAGES LINK. 
+	
+	
+
